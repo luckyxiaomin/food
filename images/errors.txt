@@ -1,0 +1,36 @@
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "素材中国-sccnn.com.PNG": Duplicate path: 素材中国-sccnn.com.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "素材中国-sccnn.com.PNG": Duplicate path: 素材中国-sccnn.com.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "素材中国-sccnn.com.PNG": Duplicate path: 素材中国-sccnn.com.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "+更多.PNG": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "   采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG": Duplicate path: 采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 16.PNG": Duplicate path: 矩形 16.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 15.PNG": Duplicate path: 矩形 15.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 16 副本.PNG": Duplicate path: 矩形 16 副本.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "g3.PNG": Duplicate path: g3.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 17.PNG": Duplicate path: 矩形 17.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "+更多.PNG": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 16.PNG": Duplicate path: 矩形 16.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 15.PNG": Duplicate path: 矩形 15.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 16 副本.PNG": Duplicate path: 矩形 16 副本.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "g3.PNG": Duplicate path: g3.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 17.PNG": Duplicate path: 矩形 17.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "+更多.PNG": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 16.PNG": Duplicate path: 矩形 16.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 15.PNG": Duplicate path: 矩形 15.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 16 副本.PNG": Duplicate path: 矩形 16 副本.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "g3.PNG": Duplicate path: g3.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 17.PNG": Duplicate path: 矩形 17.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "素材中国-sccnn.com.PNG": Duplicate path: 素材中国-sccnn.com.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "素材中国-sccnn.com.PNG": Duplicate path: 素材中国-sccnn.com.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 9.PNG": Duplicate path: 矩形 9.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "素材中国-sccnn.com.PNG": Duplicate path: 素材中国-sccnn.com.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "   采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG": Duplicate path: 采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 9 副本 2.PNG": Duplicate path: 矩形 9 副本 2.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "pic10 副本.PNG": Duplicate path: pic10 副本.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "多边形 1 副本.PNG": Duplicate path: 多边形 1 副本.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "素材中国-sccnn.com.PNG": Duplicate path: 素材中国-sccnn.com.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "蔬菜拍档.PNG": Duplicate path: 蔬菜拍档.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "   采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG": Duplicate path: 采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "   采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG": Duplicate path: 采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "矩形 9.PNG": Duplicate path: 矩形 9.PNG
+[Tue Jun 21 2016 16:42:20 GMT+0800 (中国标准时间)] layer "蔬菜汉堡.PNG": Duplicate path: 蔬菜汉堡.PNG

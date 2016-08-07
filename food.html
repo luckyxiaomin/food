@@ -1,0 +1,387 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>美食</title>
+<style>
+*{margin:0px;
+padding:0px;
+border:0px;}
+
+body{ font-family:Verdana, Geneva, sans-serif;
+font-size:14px;}
+
+.box{width:1366px;
+height:auto;
+margin:auto;
+}
+
+.t1{width:1366px;
+height:37px;
+background:rgb(246,90,91);
+background-image:url(images/%E5%9B%BE%E5%B1%82%203%20%E5%89%AF%E6%9C%AC.PNG);
+background-repeat:no-repeat;
+background-position:48% 40%;
+color:rgb(255,255,255);
+font-size:12px;
+font-weight:bold;
+text-indent:294px;
+line-height:37px;}
+
+.t1 .ims{
+	margin:24%;}
+	
+.t1 a{ text-decoration:none;
+color:rgb(255,255,255);}
+
+.t2{width:1366px;
+height:724px;
+background:url(images/483-4225.PNG);}
+
+.t21{width:733px;
+height:46px;
+background:rgba(255,255,255,0.5);
+margin:auto;}
+
+.t21 ul{list-style:none;}
+
+.t21 li{float:left;
+text-align:center;
+width:120px;
+height:46px;
+line-height:46px;
+font-size:14px;
+font-weight:bold;
+border-left:2px solid rgb(255,255,255);}
+
+.t21 a{text-decoration:none;
+display:block;
+color:rgb(0,0,0);}
+
+.t21 a:hover{background:rgb(32,64,86);
+color:rgb(255,255,255);}
+
+.t22{width:905px;
+height:355px;
+margin:auto;
+text-align:center;
+padding-top:50px;
+
+}
+
+.t22 h1{
+color:rgb(246,90,91);}
+
+.t22 h2{color:rgb(255,255,255);}
+
+.t221{width:140px;
+height:37px;
+margin:auto;
+margin-top:40px;
+background:rgb(246,90,91);
+line-height:37px;}
+
+.t23{width:262px;
+height:237px;
+float:left;
+margin-left:30px;
+line-height:23px;
+color:rgb(255,255,255);}
+
+.t231{padding:10px 15px;
+text-indent:2em;}
+
+.t3{width:1366px;
+height:648px;
+text-align:center;
+padding-top:40px;
+}
+
+.t3>p{
+	text-align:left;
+text-indent:2em;
+line-height:25px;
+color:rgb(0,0,0);
+font-size:16px;
+padding:20px 380px;}
+
+.t31{width:780px;
+height:400px;
+margin:auto;
+}
+
+.f1{width:255px;
+height:195px;
+background:url(images/pic10.PNG);
+float:left;
+color:rgb(255,255,255);
+position:relative;
+background-size:cover;
+}
+
+.f1 h2{position:absolute;
+top:135px;
+}
+.image{position:relative;
+top:94px;
+left:0px;}
+
+.f2{
+	width:255px;
+height:195px;
+background:url(images/k2.PNG);
+float:left;
+color:rgb(255,255,255);
+position:relative;
+background-size:cover;
+	}
+
+.f2 h2{position:absolute;
+top:135px;
+}
+.f3{
+	width:255px;
+height:195px;
+background:url(images/k5.PNG);
+background-size:cover;
+float:left;
+color:rgb(255,255,255);
+position:relative;
+	}
+
+.f3 h2{position:absolute;
+top:135px;
+}
+.veg{
+		width:238px;
+height:176px;
+background:rgb(32,64,86);
+float:left;
+color:rgb(255,255,255);
+font-size:14px;
+padding:10px 10px 8px 10px;
+	}
+	
+.veg p{text-align:left;
+text-indent:3em;
+line-height:25px;
+margin-top:10px;}
+
+
+.t4{width:1246px;
+height:316px;
+background:rgb(106,115,124);
+padding:60px;}
+
+.t41{ width:806px;
+height:288px;
+margin:auto;
+color:rgb(255,255,255);}
+
+.t41>p{ text-indent:2em;
+line-height:25px;}
+
+.t5{width:1366px;
+height:416px;
+text-align:center;
+padding-top:40px;}
+
+.t51{ width:950px;
+height:322px;
+margin:auto;
+margin-top:20px;}
+
+.t511{width:204px;
+height:292px;
+padding:14px;
+float:left;
+border:2px solid rgba(153,153,153,0.5);
+position:relative;}
+
+
+.t511>h2{position:absolute;
+left:60px;
+top:20px;
+color:rgb(255,255,255);}
+
+.t511>p{
+text-indent:2em;
+line-height:25px;
+text-align:left;}
+
+.t511 a{ text-decoration:none;
+color:rgb(246,90,91);
+float:left;
+font-weight:bold;}
+
+.t6{width:1066px;
+height:199px;
+background:rgb(106,115,124);
+padding:20px 150px;
+position:relative;
+}
+
+.t61{width:200px;
+height:199px;
+float:left;
+text-align:center;
+line-height:30px;
+font-size:12px;
+}
+
+.t6 img{ position:absolute;
+bottom:10px;
+right:30px;}
+
+.t61 h3{ 
+color:rgb(246,90,91);
+font-weight:bold;
+}
+
+.t61 a{color:rgb(255,255,255);
+text-decoration:none;}
+
+.t7{width:1366px;
+height:37px;
+background:rgb(246,90,91);
+text-align:center;
+color:rgb(255,255,255);
+font-weight:bold;
+line-height:37px;
+position:relative;
+}
+
+.t7 img{width:25px;
+height:25px;
+margin-left:5px;}
+
+.t7 span{position:absolute;
+right:250px;
+top:5px;
+}
+
+
+</style>
+<script src="js/jquery-2.2.0.min.js"></script>
+<script>
+$(function(){
+	$(".t41 img,.t511 img:odd").css("opacity","0.3");
+	
+	$(".t41 img,.t511 img:odd").on({"mouseover":function(){
+		$(this).fadeTo(500,1);
+		},"mouseout":function(){
+			$(this).fadeTo(500,0.3);
+			}});
+			
+	$(".t23 img,.f1,.f2,.f3").hover(function(){
+		$(this).css("transform","scale(1.1)")},
+		function(){
+		$(this).css("transform","scale(1)")});
+		
+	$(".t6 img").click(function(){
+		window.scrollTo(0,0);//window对象方法；
+		});
+	});
+</script>
+</head>
+
+<body>
+<div class="box">
+<div class="t1"><a href="submit.html" target="_blank">注册</a>|<a href="login.html" target="_blank">登录</a><span class="ims">爱美食</span><img src="images/56.PNG">&nbsp;加入购物车</div>
+<div class="t2">
+<div class="t21">
+<ul>
+<li><a href="#">首页</a></li>
+<li><a href="#">关于我们</a></li>
+<li><a href="#">我们的菜单</a></li>
+<li><a href="#">我们的文化</a></li>
+<li><a href="#">加入我们</a></li>
+<li><a href="#">联系方式</a></li>
+</ul>
+</div>
+<div class="t22">
+<img src="images/图层 3.PNG">
+<h1>喜欢收藏</h1>
+<h2>spicy,tasty& delicious always!</h2>
+<div class=t221>
+<a href="#"><img src="images/给我们建议.PNG"></a>
+</div>
+</div>
+<div class="t23" style="margin-left:260px;">
+<a href="#"><img src="images/psd17850-拷贝_03.jpg"></a>
+<div class="t231">采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。</div>
+</div>
+<div class="t23">
+<a href="#"><img src="images/psd17850-拷贝_05.jpg"></a>
+<div class="t231">采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。</div>
+</div>
+<div class="t23">
+<a href="#"><img src="images/psd17850-拷贝_07.jpg"></a>
+<div class="t231">采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。</div>
+</div>
+</div>
+<div class="t3">
+<img src="images/特殊感谢.PNG"><br>
+<img src="images/矩形 6.PNG">
+<p>为感谢全国用户多年来对我们的大力支持,我们特别推出一系列特色美食,以优惠的价格回顾顾客,让顾客可以少花钱,多享受,轻松快乐的感受美食带来的乐趣。为感谢全国用户多年来对我们的大力支持,我们特别推出一系列特色美食,以优惠的价格回顾顾客,让顾客可以少花钱,多享受,轻松快乐的感受美食带来的乐趣。</p>
+<div class="t31">
+<div class="f1">
+<img src="images/多边形 1 副本.PNG" class="image">
+<h2>蔬菜沙拉</h2>
+</div>
+<div class="veg"><h2>蔬菜沙拉</h2><p>采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。</p><h2 style="margin-left:120px">￥25</h2></div>
+<div class="f2">
+<img src="images/多边形 1 副本.PNG" class="image">
+<h2>蔬菜汉堡</h2>
+</div>
+<div class="veg"><h2>蔬菜汉堡</h2><p>采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。</p><h2 style="margin-left:120px">￥35</h2></div>
+<div class="f3"><img src="images/多边形 1 副本.PNG" class="image">
+<h2>蔬菜拍档</h2>
+</div>
+<div class="veg"><h2>蔬菜拍档</h2><p>采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。</p><h2 style="margin-left:120px">￥15</h2></div>
+</div>
+</div>
+<div class="t4">
+<div class="t41">
+<img src="images/pic12.PNG" style="float:left; margin-right:20px;">
+<h3 style="text-indent:2em; color:rgb(246,90,91);">精细的沙漠</h3>
+<img src="images/矩形 6.PNG">
+<h4 style="line-height:50px">好的事物能够保持你的健康</h4>
+<p>采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食,采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食.</p>
+<p>采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食,采用来自贵州新鲜无公害蔬菜花果经多层清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作，味道美味可口让您尽享美食.</p>
+</div>
+</div>
+<div class="t5">
+<img src="images/美味的食物.PNG"><br>
+<img src="images/矩形 6.PNG">
+<div class="t51">
+<div class="t511"><img src="images/矩形 16.PNG"><img src="images/g3.PNG"><h2>特殊面食</h2>
+<p>来自全国优质小麦产区河南小麦，经来自意大利厨师亲手制作，味道美味可口让您尽享美食。</p><br>
+<a href="#">+更多</a>
+</div>
+<div class="t511"><img src="images/矩形 16.PNG"><img src="images/g4.PNG"><h2>水果冰镇</h2>
+<p>采用新鲜水果切片，上好冰块配合其他优质原料经料理大师之手，让您体验不一样的感觉。</p><br><br>
+<a href="#" style="margin-top:5px;">+更多</a>
+</div>
+<div class="t511"><img src="images/矩形 16.PNG"><img src="images/g5.PNG"><h2>香肠料理</h2>
+<P>采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作。</P><br>
+<a href="#">+更多</a>
+</div>
+<div class="t511"><img src="images/矩形 16.PNG"><img src="images/pic2.PNG"><h2>天甜椒理</h2>
+<P>采用来自贵州新鲜无公害蔬菜花果经多重清洗程序，确保广大用户饮食安全，经来自意大利厨师亲手制作。</P><br>
+<a href="#">+更多</a>
+</div>
+</div>
+</div>
+<div class="t6">
+<div class="t61"><h3>关于必胜客</h3><a href="#">品牌介绍</a><br><a href="#">新闻中心</a><br><a href="#">企业</a></div>
+<div class="t61"><h3>美味菜单</h3><a href="#">新品推荐</a><br><a href="#">休闲早餐</a><br><a href="#">工作日特惠午餐</a><br><a href="#">轻松下午茶</a><br><a href="#">欢乐夜宵</a></div>
+<div class="t61"><h3>关注我们</h3><a href="#">下载APP</a><br><a href="#">官方微信</a><br><a href="#">新浪微博</a><br><a href="#">腾讯微博</a><br><a href="#">人人网</a></div>
+<div class="t61"><h3>法律隐私条款</h3><a href="#">法律条款</a><br><a href="#">隐私权声明</a></div>
+<div class="t61"><h3>其他品牌网站</h3><a href="#">中国百姓</a><br><a href="#">中国肯德基</a><br><a href="#">东方既白</a><br><a href="#">小肥羊</a><br><a href="#">肯德基宅急送</a></div>
+<img src="images/返回顶部.PNG">
+</div>
+<div class="t7">版权所有 百胜(中国)投资有限公司&nbsp;沪ICP备05031779号<span><img src="images/图层 100.PNG" style="margin-left:130px;"><img src="images/图层 101.PNG"><img src="images/图层 102.PNG"><img src="images/图层 105.PNG"><img src="images/图层 103.PNG"><img src="images/图层 104.PNG"></span></div>
+</div>
+</body>
+</html>

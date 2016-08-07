@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>注册</title>
+<script src="js/jquery-2.2.0.min.js"></script>
+<script>
+$(function(){
+	$("form input:not(:eq(-2))").width(200).height(30);
+	$(".an").click(function(){
+		var $t1=$("#usename").val();
+		var $t2=$("#set").val();
+		var $t3=$("#ensure").val();
+		var $t4=$("#yzm").val();
+		var $t5=$("#e-mail").val();
+		/*var $check=$("#agree:checked");*/
+		if($t1==""||$t2==""||$t3==""||$t4==""||$t5=="")
+		{
+			alert("请输入完整信息！");
+			}/*else if($check=="false")
+			{
+				alert("请您阅读注册协议！");
+				}*/
+			
+		});
+	});
+</script>
+<style>
+*{margin:0px;
+padding:0px;
+border:0px;}
+
+.div1{width:1366px;
+font-size:14px;
+height:auto;
+background:-ms-linear-gradient( top,rgba(246,90,91,1), rgba(246,90,91,0.4) );/*IE*/
+background:-webkit-linear-gradient( top,rgba(246,90,91,1), rgba(246,90,91,0.4) );/*谷歌chrome*/
+background:-moz-linear-gradient( top,rgba(246,90,91,1), rgba(246,90,91,0.4) );/*火狐mozilla*/}
+
+.t1{width:1362px;
+height:37px;
+background-image:url(images/%E5%9B%BE%E5%B1%82%203%20%E5%89%AF%E6%9C%AC.PNG);
+background-repeat:no-repeat;
+background-position:48% 40%;
+color:rgb(255,255,255);
+font-weight:bold;
+text-indent:294px;
+line-height:37px;
+border:2px solid rgba(255,255,255,0.2);}
+
+.t1 .ims{
+	margin:24%;}
+	
+.t1 a{ text-decoration:none;
+color:rgb(255,255,255);}
+
+.main{width:300px;
+height:500px;
+border:2px solid rgba(255,255,255,0.2);
+margin-top:20px;
+margin:auto;
+padding:20px 150px;
+}
+
+.main img{width:80px;
+height:80px;
+margin-left:100px;}
+
+.main h1{text-align:center;
+color:rgb(255,255,255);}
+
+.main form{line-height:50px;}
+
+.an{font-size:20px;
+background:#CCC;
+box-shadow:#CCC 0px 0px 10px;
+margin-left:50px;}
+
+.bt{width:1366px;
+height:37px;
+background:rgb(246,90,91);
+text-align:center;
+color:rgb(255,255,255);
+font-weight:bold;
+line-height:37px;
+position:relative;
+margin-top:25px;
+}
+
+.bt img{width:25px;
+height:25px;
+margin-left:5px;}
+
+.bt span{position:absolute;
+right:250px;
+top:5px;
+}
+</style>
+</head>
+<body>
+<div class="div1">
+<div class="t1"><a href="food.html" target="_blank">回到首页</a><span class="ims">爱美食</span><a href="login.html" target="_blank">登录</a></div>
+<div class="main">
+<img src="images/图层 3.PNG">
+<h1>欢迎注册</h1>
+<form method="post">
+<table width="300" border="1">
+  <tr>
+    <td><label for="usename">用户名:</label></td>
+    <td><input type="text" id="usename" /></td>
+  </tr>
+  <tr>
+    <td><label for="set">设置密码:</label></td>
+    <td><input type="password" id="set"/></td>
+  </tr>
+  <tr>
+    <td><label for="ensure">确认密码:</label></td>
+    <td><input type="password" id="ensure"/></td>
+  </tr>
+  <tr>
+    <td><label for="e-mail">电子邮箱:</label></td>
+    <td><input type="text" id="e-mail"/></td>
+  </tr>
+  <tr>
+    <td><label for="yzm">验证码:</label></td>
+    <td><input type="text" id="yzm"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><input type="checkbox" id="agree"/><label for="agree">我已阅读并同意注册协议</label></td>
+    </tr>
+  <tr>
+    <td colspan="2"><input type="button"  value="登录" class="an"/></td>
+    </tr>
+</table>
+
+</form>
+</div>
+<div class="bt">版权所有 百胜(中国)投资有限公司&nbsp;沪ICP备05031779号<span><img src="images/图层 100.PNG" style="margin-left:130px;"><img src="images/图层 101.PNG"><img src="images/图层 102.PNG"><img src="images/图层 105.PNG"><img src="images/图层 103.PNG"><img src="images/图层 104.PNG"></span></div></div>
+</body>
+</html>
